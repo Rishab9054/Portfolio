@@ -1,4 +1,4 @@
-<<<<<<< HEAD
-# 3D-Portfolio
-3D-Portfolio using React anf Three.js
 
+# Portfolio
+Portfolio using react and 3D-libraries.
+ 
